@@ -7,7 +7,7 @@ use craft\base\Plugin;
 use craft\events\RegisterComponentTypesEvent;
 use craft\services\Fields;
 
-use craftpulse\yearpicker\Year as YearField;
+use craftpulse\yearpicker\fields\Year as YearField;
 
 use yii\base\Event;
 

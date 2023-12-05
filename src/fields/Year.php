@@ -1,10 +1,10 @@
 <?php
 
-namespace craftpulse\yearpicker\Year;
+namespace craftpulse\yearpicker\fields;
 
 use craft\fields\Dropdown;
 
-class Icon extends Dropdown
+class Year extends Dropdown
 {
     protected bool $optgroups = false;
 
